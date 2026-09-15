@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Our Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+SUMMARY:Reminder: Cocktail Tomorrow! 🥂
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+DESCRIPTION:Get your outfits ready! The Cocktail event starts tomorrow at 7:00 PM.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Wedding Event: Cocktail 🥂
+DTSTART:20261122T133000Z
+DTEND:20261122T173000Z
+LOCATION:Venue: Hotel Palacio, Symphony Hall
+DESCRIPTION:We can't wait to kick off the celebrations with you!
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Reminder: Haldi & Wedding Tomorrow! 💛💍
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DESCRIPTION:Big day tomorrow! Haldi starts at 11:30 AM and the Wedding starts at 7:00 PM.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Wedding Event: Haldi Ceremony 💛
+DTSTART:20261125T060000Z
+DTEND:20261125T090000Z
+LOCATION:Venue: Gandhibasti, H/No: 57
+DESCRIPTION:Join us for a vibrant and joyful morning!
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Our Wedding Ceremony! 💍✨
+DTSTART:20261125T133000Z
+DTEND:20261125T203000Z
+LOCATION:Venue Kalyanam Grand, VIP Road
+DESCRIPTION:The main event. We look forward to your blessings.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Reminder: Reception Tomorrow! 🎉
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DESCRIPTION:The final celebration is tomorrow! Reception starts at 5:00 PM.
+END:VEVENT
+
+BEGIN:VEVENT
+SUMMARY:Wedding Event: Reception 🎉
+DTSTART:20261127T113000Z
+DTEND:20261127T153000Z
+LOCATION:Venue: GreenWood Resort, Nameri Lawn
+DESCRIPTION:Let's celebrate the new journey together!
+END:VEVENT
+
+END:VCALENDAR
